@@ -3,4 +3,4 @@
 👨🏼‍💻 I am currently working on [bobo ballot](https://github.com/artbyFORM/bobo-ballot) for [artbyFORM](https://github.com/artbyFORM). <br>
 📫 Let's connect! You can reach me at contact@erikmart.in or on my [LinkedIn](https://www.linkedin.com/in/erikmartin29/).
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=emtacolor&count=1)
+<img width="30%" src="https://toru.kio.dev/api/v1/emtacolor" alt="Last.fm Activity"/>
